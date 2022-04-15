@@ -1,6 +1,6 @@
 # HelloWorld
 My first repository on GitHub
-···
+```
 #include <iostream>
 #include <bits/stdc++.h>
 
@@ -128,4 +128,4 @@ int main()
     cout<<root->data<<endl;
     return 0;
 }
-···
+```
